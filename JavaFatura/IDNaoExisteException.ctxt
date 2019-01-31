@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=IDNaoExisteException
+comment0.text=\n\ Escreva\ a\ descri\u00E7\u00E3o\ da\ classe\ AtividadeNaoExisteException\ aqui.\n\ \n\ @author\ (seu\ nome)\ \n\ @version\ (n\u00FAmero\ de\ vers\u00E3o\ ou\ data)\n
+comment1.params=
+comment1.target=IDNaoExisteException()
+comment2.params=cod
+comment2.target=IDNaoExisteException(java.lang.String)
+numComments=3

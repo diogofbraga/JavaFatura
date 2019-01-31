@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=FamiliaNumerosa
+comment1.params=
+comment1.target=FamiliaNumerosa()
+comment1.text=\n\ Construtor\ vazio\ de\ FamiliaNumerosa.\n
+comment2.params=nnif\ nemail\ nnome\ nmorada\ npassword\ nagregado_familiar\ nnifs\ ncoeficiente\ ncodigos\ euros\ dependentes
+comment2.target=FamiliaNumerosa(int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ java.util.List,\ double,\ java.util.List,\ double,\ int)
+comment2.text=\n\ Construtor\ parametrizado\ de\ FamiliaNumerosa.\n
+comment3.params=umFamiliaNumerosa
+comment3.target=FamiliaNumerosa(FamiliaNumerosa)
+comment3.text=\n\ Construtor\ de\ c\u00F3pia\ de\ FamiliaNumerosa.\n
+comment4.params=
+comment4.target=int\ getDependentes()
+comment4.text=\n\ M\u00E9todo\ que\ devolve\ o\ n\u00FAmero\ de\ dependentes.\n\ \n\ @return\ Dependentes\ de\ fam\u00EDlia.\n
+comment5.params=nDependentes
+comment5.target=void\ setDependentes(int)
+comment5.text=\ \n\ M\u00E9todo\ que\ atualiza\ o\ n\u00FAmero\ de\ dependentes.\n\ \n\ @param\ nDependentes\ Novo\ valor.\n
+comment6.params=
+comment6.target=double\ reducaoImposto()
+comment6.text=\n\ \n\ M\u00E9todo\ que\ calcula\ o\ valor\ total\ para\ redu\u00E7\u00E3o\ de\ imposto\n\ \n\ @return\ Valor.\n
+numComments=7

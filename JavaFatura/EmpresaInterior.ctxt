@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=EmpresaInterior
+comment1.params=
+comment1.target=EmpresaInterior()
+comment1.text=\n\ \n\ Construtor\ vazio\ de\ EmpresaInterior\n
+comment2.params=nnif\ nemail\ nnome\ nmorada\ npassword\ ncodigos\ neuros\ nconcelho\ ncoeficiente
+comment2.target=EmpresaInterior(int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.util.List,\ double,\ java.lang.String,\ double)
+comment2.text=\n\ \n\ Construtor\ parametrizado\ de\ EmpresaInterior.\n
+comment3.params=umEmpresaInterior
+comment3.target=EmpresaInterior(EmpresaInterior)
+comment3.text=\n\ \n\ Construtor\ de\ c\u00F3pia\ de\ EmpresaInterior.\n\ \n\ @return\ EmpresaInterior\n
+comment4.params=
+comment4.target=java.lang.String\ getConcelhoInterior()
+comment4.text=\n\ \n\ M\u00E9todo\ que\ devolve\ o\ Concelho\ Interior.\n\ \n\ @return\ String\ Concelho\ Interior\n
+comment5.params=
+comment5.target=double\ getCoeficiente()
+comment5.text=\n\ \n\ M\u00E9todo\ que\ devolve\ o\ coeficiente.\n\ \n\ @return\ Valor.\n
+comment6.params=nConcelhoInterior
+comment6.target=void\ setConcelhoInterior(java.lang.String)
+comment6.text=\ \n\ M\u00E9todo\ que\ atualiza\ o\ concelho\ interior.\n\ \n\ @param\ nConcelhoInterior\ Novo\ concelho\ interior.\n\ \n
+comment7.params=nCoeficiente
+comment7.target=void\ setCoeficiente(double)
+comment7.text=\n\ \n\ M\u00E9todo\ que\ atualiza\ o\ coeficiente.\n\ \n\ @param\ nCoeficiente\ Novo\ coeficiente.\n
+comment8.params=
+comment8.target=double\ reducaoImposto()
+comment8.text=\n\ M\u00E9todo\ que\ calcula\ o\ valor\ a\ reduzir\ de\ imposto.\n\ \n\ @return\ Valor.\n
+numComments=9
